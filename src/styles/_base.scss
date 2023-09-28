@@ -39,6 +39,12 @@ p, figure {
 a img {
     border: none;
 }
+img {
+    display: block;
+    max-width: 100%;
+    margin: 1em 0;
+    border-radius: 0.25em;
+}
 sup, sub {
     line-height: 0;
 }
