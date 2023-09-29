@@ -1,4 +1,9 @@
-_site
-.sass-cache
-node_modules
-.DS_STORE
+# Ruby Gems
+*.gem
+
+# Design Files
+*.psd
+*.ai
+
+# IntelliJ
+.idea
