@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LIN-VR
-permalink: /lin-vr/
+permalink: /projects/1-lin-vr/
 weight: 3
 ---
 
