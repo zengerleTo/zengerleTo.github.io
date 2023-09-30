@@ -3,5 +3,5 @@ name: LIN-VR
 tools: [Unity, C#, SteamVR]
 image: ../images/lin_vr_preview.png
 description: TODO
-url: /projects/1-lin-vr/
+external_url: https://zengerleto.github.io/projects/lin-vr
 ---
