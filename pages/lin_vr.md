@@ -12,6 +12,6 @@ Some text
 
 Some more text
 
-<video width="320" height="240" controls>
+<video width="320" height="240" loop autoplay muted>
   <source src="../videos/lin_vr_clip1.mp4" type="video/mp4">
 </video>
