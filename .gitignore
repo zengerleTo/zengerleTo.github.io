@@ -7,3 +7,6 @@
 
 # IntelliJ
 .idea
+
+# Local Test Build
+_site/*
